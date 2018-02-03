@@ -8,7 +8,6 @@ header{
     height: 100vh;
     background-size: cover;
     background-position: center;
-    
 }
 
 .main-nav{
@@ -48,7 +47,6 @@ header{
     margin-top: 9px;
 }
 
-
 body{
     font-family: monospace;
 }
@@ -61,8 +59,8 @@ body{
 .main-content{
     position: absolute;
     width: 1200px;
-    margin-left: 0px;
-    margin-top: 0px;
+    margin-left: 70px;
+    margin-top: 40px;
 }
 
 h1{
@@ -70,7 +68,7 @@ h1{
     text-transform: uppercase;
     font-size: 70px;
     text-align: center;
-    margin-top: 270px;
+    margin-top: 250px;
 }
 
 .button{
@@ -101,34 +99,3 @@ h1{
     background-color: darkorange;
     transition: all 0.5s ease-in;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
